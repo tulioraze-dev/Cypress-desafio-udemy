@@ -1,0 +1,22 @@
+{
+  "name": "desafio1",
+  "version": "1.0.0",
+  "description": "Desafio do curso de Cypress Udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tulioraze-dev/Cypress-desafio-udemy.git"
+  },
+  "author": "Tulio R. Azevedo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tulioraze-dev/Cypress-desafio-udemy/issues"
+  },
+  "homepage": "https://github.com/tulioraze-dev/Cypress-desafio-udemy#readme",
+  "devDependencies": {
+    "cypress": "^9.5.2"
+  }
+}
